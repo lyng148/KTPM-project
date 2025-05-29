@@ -74,3 +74,6 @@ mvnw.cmd
 .env.test.local
 .env.production.local
 .Thumbs.db
+
+# Scripts
+test.sh
