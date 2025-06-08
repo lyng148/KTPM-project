@@ -154,7 +154,7 @@ spring.datasource.password=your_password
 ### Bước 3: Chạy Backend
 ```bash
 cd backend
-./mvnw spring-boot:run
+mvn spring-boot:run
 ```
 Backend sẽ chạy tại: `http://localhost:8080`
 
